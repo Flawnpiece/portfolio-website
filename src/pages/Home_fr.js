@@ -10,7 +10,7 @@ const Home = () => {
 
             <div class="flex-container">
                 <div class="flex-item">
-                    <img class="image-box" src="./assets/profile.png" alt="" width={"60%"} />
+                    <img class="image-box" src='./assets/profile.png' alt="" width={"60%"} />
                     <br />
 
                     <div class="red-line vertical"></div><br />
