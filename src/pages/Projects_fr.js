@@ -32,7 +32,7 @@ const Home = () => {
                     <h4>Description</h4>
                     <p>Un bot discord que j'ai créé pour développer mes compétences Python en utilisant la bibliothèque discord.py. Le bot utilise une API publique fournie par un jeu pour présenter des messages et des informations basés sur les commandes des utilisateurs.</p>
                     <br />
-                    <img src="./assets/discordbotimg.png" alt="" />
+                    <img src="https://flawnpiece.github.io/portfolio-website/assets/discordbotimg.png" alt="" />
                     <br /><br /><br />
                     <a href="https://github.com/Flawnpiece/osu-mocha-old" class="btn">Visiter sur Github</a>
 
@@ -41,7 +41,7 @@ const Home = () => {
                 </div>
 
             </div>
-            <Link to="/contact_fr" class="down-arrow-project line-center"><img class="button-continue" src="./assets/down-arrow.png" alt="" width="20%" /></Link>
+            <Link to="/contact_fr" class="down-arrow-project line-center"><img class="button-continue" src="https://flawnpiece.github.io/portfolio-website/assets/down-arrow.png" alt="" width="20%" /></Link>
 
         </div>
     );

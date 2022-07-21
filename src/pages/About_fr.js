@@ -54,7 +54,7 @@ const About = () => {
                 </div>
             </div>
 
-            <Link to="/projects_fr" class="down-arrow line-center"><img class="button-continue" src="./assets/down-arrow.png" alt="" width="20%" /></Link>
+            <Link to="/projects_fr" class="down-arrow line-center"><img class="button-continue" src="https://flawnpiece.github.io/portfolio-website/assets/down-arrow.png" alt="" width="20%" /></Link>
 
         </div>
     );

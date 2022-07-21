@@ -31,7 +31,6 @@ const Home = () => {
                 </div>
             </div>
 
-            <Link to="/projects_fr" class="down-arrow line-center"><img class="button-continue" src="./assets/down-arrow.png" alt="" width="20%" /></Link>
         </div>
     );
 };

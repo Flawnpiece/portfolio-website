@@ -10,7 +10,7 @@ const Home = () => {
 
             <div class="flex-container">
                 <div class="flex-item">
-                    <img class="image-box" src='./assets/profile.png' alt="" width={"60%"} />
+                    <img class="image-box" src='https://flawnpiece.github.io/portfolio-website/assets/profile.png' alt="" width={"60%"} />
                     <br />
 
                     <div class="red-line vertical"></div><br />
@@ -28,7 +28,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <Link to="/about" class="right-arrow"><img class="button-continue" src="./assets/down-arrow.png" alt="" width="45%" /></Link>
+            <Link to="/about" class="right-arrow"><img class="button-continue" src="https://flawnpiece.github.io/portfolio-website/assets/down-arrow.png" alt="" width="45%" /></Link>
 
             <Link to="/home_fr" class="fr">FR</Link>
         </header >
