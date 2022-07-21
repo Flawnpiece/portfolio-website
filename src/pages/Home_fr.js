@@ -30,7 +30,7 @@ const Home = () => {
 
             <Link to="/about_fr" class="right-arrow"><img class="button-continue" src="./assets/down-arrow.png" alt="" width="45%" /></Link>
 
-            <Link to="/" class="fr">EN</Link>
+            <Link to="/portfolio-website" class="fr">EN</Link>
         </header >
     );
 };

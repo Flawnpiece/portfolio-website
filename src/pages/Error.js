@@ -17,7 +17,7 @@ const Home = () => {
                     <h2 class="center">Get back to the gome page in english</h2>
                     <div class="red-line sub-text line-center"></div>
                     <br />
-                    <Link to="/" class="btn line-center">Home</Link>
+                    <Link to="/portfolio-website" class="btn line-center">Home</Link>
 
 
                 </div>
