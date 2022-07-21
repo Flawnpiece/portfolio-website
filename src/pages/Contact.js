@@ -60,7 +60,7 @@ const Contact = () => {
                 <textarea name="message" />
                 <input type="submit" value="Send" onClick={sendEmail} class="btn" />
             </form>
-            <Link to="/" class="left-arrow"><img class="button-continue" src="https://flawnpiece.github.io/portfolio-website/assets/down-arrow.png" alt="" width="25%" /></Link>
+            <Link to="/portfolio-website" class="left-arrow"><img class="button-continue" src="https://flawnpiece.github.io/portfolio-website/assets/down-arrow.png" alt="" width="25%" /></Link>
 
         </div>
     );
